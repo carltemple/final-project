@@ -39,6 +39,12 @@ nav div a:hover{
     border-radius: 50px;
     color: rgb(255, 255, 255);
 } 
+header{
+    float: left;
+    font-size: 50px;
+    font-family: 'Ubuntu' serif;
+    font-weight: bold;
+}
 body{
     font-family: 'Ubuntu' sans-serif;
 }
@@ -79,7 +85,7 @@ i {
    padding: 20px;
 }
 i:hover{
-    color: 	#0C4160;
+    color: 	#000000;
 }
 footer{
     margin: 40px;
