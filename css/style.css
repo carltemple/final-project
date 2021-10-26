@@ -129,7 +129,7 @@ input[type=color] {
     height: 100px;
 } 
   input[type=submit] {
-    background-color: #04AA6D;
+    background-color: #808C89;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -138,11 +138,14 @@ input[type=color] {
   }
   
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #808C89;
   }
   
   .form-container {
     border-radius: 5px;
-    background-color: #f2f2f250;
+    background-color: #733E1F95;
     padding: 20px;
+  }
+  label{
+      color: white;
   }
